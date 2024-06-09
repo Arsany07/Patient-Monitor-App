@@ -1,6 +1,6 @@
 # Patient Monitor Application
 
-The Signal Viewer Application is a PyQt5-based tool for visualizing and analyzing signals using Pyqtgraph.
+The Patient Monitor Application is a PyQt5-based tool for visualizing and analyzing signals using Pyqtgraph.
 
 ## Table of Contents
 
